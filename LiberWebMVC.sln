@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiberWebMVC", "LiberWebMVC\LiberWebMVC.csproj", "{97318592-8E3B-4904-9816-EE23E09A2D8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97318592-8E3B-4904-9816-EE23E09A2D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97318592-8E3B-4904-9816-EE23E09A2D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97318592-8E3B-4904-9816-EE23E09A2D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97318592-8E3B-4904-9816-EE23E09A2D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEEA7C0C-1FA1-4C8C-9E5A-053BB25F384E}
+	EndGlobalSection
+EndGlobal
