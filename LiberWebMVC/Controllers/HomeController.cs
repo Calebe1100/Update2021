@@ -25,6 +25,9 @@ namespace LiberWebMVC.Controllers
 
         public IActionResult Privacy()
         {
+            ViewData["Title2"] = "Primeira aplicação em C#";
+            ViewData["Email"] = "calebebraga08@gmail.com";
+
             return View();
         }
 
