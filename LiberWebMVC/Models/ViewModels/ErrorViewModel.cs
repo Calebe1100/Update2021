@@ -1,6 +1,6 @@
 using System;
 
-namespace LiberWebMVC.Models
+namespace LiberWebMVC.Models.ViewModels
 {
     public class ErrorViewModel
     {
